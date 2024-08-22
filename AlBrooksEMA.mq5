@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
-//|                                                      ProjectName |
-//|                                      Copyright 2020, CompanyName |
-//|                                       http://www.companyname.net |
+//|                                                      AlBrooksEMA |
+//|                                      Copyright 2024, FinanceTech |
+//|                                  maryamazhdari.mailbox@gmail.com |
 //+------------------------------------------------------------------+
 #property indicator_chart_window
 #property indicator_buffers 1
